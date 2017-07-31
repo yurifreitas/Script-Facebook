@@ -2,7 +2,7 @@ javascript:
 var elms = document.getElementsByClassName('uiButton _1sm');
 var sorteados = [];
 var valorMaximo = elms.length;
-var i= 0,5;
+var i= 0;
 var clicks = 0; 
 function criarUnico(clicks, i){        
     if(clicks >= valorMaximo){                
